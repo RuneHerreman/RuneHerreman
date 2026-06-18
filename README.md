@@ -8,7 +8,7 @@ Self-hosted workout logger. Track strength, cardio, and volume. Includes 1RM est
 
 Stack: ASP.NET Core · React + Vite · PostgreSQL · Docker · JWT
 
-### [**Zuyp - Drinking, with purpose**](#)
+### [**Zuyp - Drinking, with purpose**](https://github.com/RuneHerreman/zuyp)
 Android app for planning nights out with friends.
 Create hangouts, track shared expenses, and send an SOS ping that flashes everyone's flashlight when you need people *now*. Geofencing notifies the group when someone arrives. 
 
