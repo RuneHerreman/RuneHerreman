@@ -21,9 +21,9 @@ Create hangouts, track shared expenses, and send an SOS ping that flashes everyo
 Stack: Kotlin · Room DB · AMQP · Geofencing · Material Design
 
 <p>
-  <img src="https://raw.githubusercontent.com/RuneHerreman/zuyp/main/docs/screenshots/home_screen.png" alt="Zuyp upcoming events" width="32%" />
-  <img src="https://github.com/RuneHerreman/zuyp/blob/main/docs/screenshots/discover_screen_clicked.png" alt="Zuyp discover map" width="32%" />
-  <img src="https://raw.githubusercontent.com/RuneHerreman/zuyp/main/docs/screenshots/hangout_detail_joined_screen.png" alt="Zuyp hangout detail" width="32%" />
+  <img src="https://raw.githubusercontent.com/RuneHerreman/zuyp/main/docs/screenshots/home_screen.png" alt="Zuyp upcoming events" width="32%" align="top" />
+  <img src="https://raw.githubusercontent.com/RuneHerreman/zuyp/main/docs/screenshots/discover_screen_clicked.png" alt="Zuyp discover map" width="32%" align="top" />
+  <img src="https://raw.githubusercontent.com/RuneHerreman/zuyp/main/docs/screenshots/hangout_detail_joined_screen.png" alt="Zuyp hangout detail" width="32%" align="top" />
 </p>
 
 ## Stack
